@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Homework7May25(failed)">
+    <classes>
+      <class name="Tests.Audi.com.AudiTest">
+        <methods>
+          <include name="case1"/>
+          <include name="setUp"/>
+          <include name="setUpPage"/>
+        </methods>
+      </class> <!-- Tests.Audi.com.AudiTest -->
+    </classes>
+  </test> <!-- Homework7May25(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
